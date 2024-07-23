@@ -2,6 +2,8 @@
 
 Get the sitemap structure of one to many sites. Save to structured markdown if desired.
 
+![sitemap-scraper](assets/sitemap-scraper.webp)
+
 ## Table of Contents
 - [Languages Used](#languages-used)
 - [Technologies Used](#technologies_used)
